@@ -6,5 +6,8 @@ import (
 
 func main() {
 	// lesson.oddeven()
-	lesson.Omikuji()
+	// lesson.Omikuji()
+	// lesson.Cast()
+	// lesson.Truefalse()
+	lesson.Slice()
 }
