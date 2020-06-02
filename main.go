@@ -9,5 +9,9 @@ func main() {
 	// lesson.Omikuji()
 	// lesson.Cast()
 	// lesson.Truefalse()
-	lesson.Slice()
+	// lesson.Slice()
+	// lesson.Userdefined()
+	// lesson.Swap()
+	// lesson.Swap2()
+	lesson.Receiver()
 }
